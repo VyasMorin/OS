@@ -1,0 +1,15 @@
+ ime izvršne datoteke bez staze:cron PID procesa:723. Zanimljiv property, recent_used_cpu:0
+ ime izvršne datoteke bez staze:dbus-daemon PID procesa:724. Zanimljiv property, recent_used_cpu:0
+ ime izvršne datoteke bez staze:systemd-logind PID procesa:727. Zanimljiv property, recent_used_cpu:0
+ ime izvršne datoteke bez staze:dhcpcd PID procesa:820. Zanimljiv property, recent_used_cpu:1
+ ime izvršne datoteke bez staze:dhcpcd PID procesa:821. Zanimljiv property, recent_used_cpu:1
+ ime izvršne datoteke bez staze:dhcpcd PID procesa:822. Zanimljiv property, recent_used_cpu:1
+ ime izvršne datoteke bez staze:dhcpcd PID procesa:823. Zanimljiv property, recent_used_cpu:1
+ ime izvršne datoteke bez staze:kworker/R-cfg80 PID procesa:828. Zanimljiv property, recent_used_cpu:0
+ ime izvršne datoteke bez staze:dhcpcd PID procesa:838. Zanimljiv property, recent_used_cpu:1
+ ime izvršne datoteke bez staze:dhcpcd PID procesa:839. Zanimljiv property, recent_used_cpu:1
+ ime izvršne datoteke bez staze:dhcpcd PID procesa:858. Zanimljiv property, recent_used_cpu:0
+ ime izvršne datoteke bez staze:login PID procesa:871. Zanimljiv property, recent_used_cpu:1
+ ime izvršne datoteke bez staze:systemd PID procesa:883. Zanimljiv property, recent_used_cpu:1
+ ime izvršne datoteke bez staze:(sd-pam) PID procesa:885. Zanimljiv property, recent_used_cpu:0
+ ime izvršne datoteke bez staze:bash PID procesa:895. Zanimljiv property, recent_used_cpu:1
