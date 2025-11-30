@@ -7,7 +7,7 @@ static int __init start(void){
 	printk(KERN_INFO "\n\n\n\n");
 	struct task_struct* task;
 	for_each_process(task){
-		printk(KERN_INFO "ime izvršne datoteke bez staze:%s PID procesa:%d. Zanimljiv propery  throttled:%d \n",task->comm,task->pid,task->recent_used_cpu);
+		printk(KERN_INFO "ime izvršne datoteke bez staze:%s PID procesa:%d. Zanimljiv property, recent_used_cpu:%d \n",task->comm,task->pid,task->recent_used_cpu);
 	}
 	
 	
