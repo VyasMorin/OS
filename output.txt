@@ -1,15 +1,11 @@
- ime izvršne datoteke bez staze:cron PID procesa:723. Zanimljiv property, recent_used_cpu:0
- ime izvršne datoteke bez staze:dbus-daemon PID procesa:724. Zanimljiv property, recent_used_cpu:0
- ime izvršne datoteke bez staze:systemd-logind PID procesa:727. Zanimljiv property, recent_used_cpu:0
- ime izvršne datoteke bez staze:dhcpcd PID procesa:820. Zanimljiv property, recent_used_cpu:1
+ ime izvršne datoteke bez staze:cron PID procesa:723. Zanimljiv property, recent_used_cpu:0 //cron is a shell command for scheduling a job (i.e. command or shell script) to run periodically at a fixed time, date, or interval.
+ ime izvršne datoteke bez staze:dbus-daemon PID procesa:724. Zanimljiv property, recent_used_cpu:0 //Multiple programs connect to the message bus daemon and can exchange messages with one another.
+ ime izvršne datoteke bez staze:systemd-logind PID procesa:727. Zanimljiv property, recent_used_cpu:0 //systemd-logind is a system service that manages user logins. 
+ ime izvršne datoteke bez staze:dhcpcd PID procesa:820. Zanimljiv property, recent_used_cpu:1 // dhcpcd is an implementation of the DHCP client. A DHCP client is useful for connecting your computer to a network which uses DHCP to assign network addresses.
  ime izvršne datoteke bez staze:dhcpcd PID procesa:821. Zanimljiv property, recent_used_cpu:1
- ime izvršne datoteke bez staze:dhcpcd PID procesa:822. Zanimljiv property, recent_used_cpu:1
- ime izvršne datoteke bez staze:dhcpcd PID procesa:823. Zanimljiv property, recent_used_cpu:1
- ime izvršne datoteke bez staze:kworker/R-cfg80 PID procesa:828. Zanimljiv property, recent_used_cpu:0
- ime izvršne datoteke bez staze:dhcpcd PID procesa:838. Zanimljiv property, recent_used_cpu:1
- ime izvršne datoteke bez staze:dhcpcd PID procesa:839. Zanimljiv property, recent_used_cpu:1
- ime izvršne datoteke bez staze:dhcpcd PID procesa:858. Zanimljiv property, recent_used_cpu:0
- ime izvršne datoteke bez staze:login PID procesa:871. Zanimljiv property, recent_used_cpu:1
- ime izvršne datoteke bez staze:systemd PID procesa:883. Zanimljiv property, recent_used_cpu:1
- ime izvršne datoteke bez staze:(sd-pam) PID procesa:885. Zanimljiv property, recent_used_cpu:0
- ime izvršne datoteke bez staze:bash PID procesa:895. Zanimljiv property, recent_used_cpu:1
+ ime izvršne datoteke bez staze:kworker/R-cfg80 PID procesa:828. Zanimljiv property, recent_used_cpu:0 //"kworker" is a placeholder process for kernel worker threads, which perform most of the actual processing for the kernel, especially in cases where there are interrupts, timers, I/O, etc. 
+ ime izvršne datoteke bez staze:login PID procesa:871. Zanimljiv property, recent_used_cpu:1 //login is used when signing onto a system. If no argument is given, login prompts for the username.
+ ime izvršne datoteke bez staze:systemd PID procesa:883. Zanimljiv property, recent_used_cpu:1 //systemd is a suite of basic building blocks for a Linux system. It provides a system and service manager that runs as PID 1 and starts the rest of the system.
+ ime izvršne datoteke bez staze:(sd-pam) PID procesa:885. Zanimljiv property, recent_used_cpu:0 //systemd services that execute in a PAM session (i.e. that have PAMName= in the unit file) will have an extra (sd-pam) process in the unit's cgroup.
+ ime izvršne datoteke bez staze:bash PID procesa:895. Zanimljiv property, recent_used_cpu:1 //Bash (short for "Bourne Again SHell") is an interactive command interpreter and programming language developed for Unix-like operating systems.
+
